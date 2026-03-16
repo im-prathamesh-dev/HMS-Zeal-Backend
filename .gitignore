@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# Environment variables
+.env
+.env.test
+.env.local
+.env.development
+.env.production
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build/Dist folders
+dist/
+build/
+
+# Coverage folders
+coverage/
+
+# Temporary files
+.tmp/
+.cache/
